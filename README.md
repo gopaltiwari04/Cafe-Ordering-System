@@ -1,5 +1,4 @@
 ## Brew & Bite is an artisanal café website featuring an integrated digital ordering system.
-Since I cannot directly browse external URLs, I have structured this standard, professional README.md based on your project title and the core functionalities of a modern digital café ordering application.
 ------------------------------
 ## Brew & Bite | Artisanal Café & Digital Ordering
 Welcome to the official repository for Brew & Bite, a modern web application designed for an artisanal café. This platform seamlessly combines a beautiful, brand-focused frontend website with an intuitive, efficient digital ordering system to enhance the customer dining experience.
