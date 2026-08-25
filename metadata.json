@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Bite Café System",
+  "description": "A modern, full-featured demo café ordering and management system featuring online ordering, table QR dine-in, live order tracking, kitchen display system (KDS), and real-time admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
